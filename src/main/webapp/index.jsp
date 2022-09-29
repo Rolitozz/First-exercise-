@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <h2>!!!</h2>
+        <h2>Juanito</h2>
         <a href="Control">verificar sevelt objeto response</a>
         
         <form action="Control" method="get">
